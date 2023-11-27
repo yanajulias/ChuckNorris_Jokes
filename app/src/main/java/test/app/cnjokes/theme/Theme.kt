@@ -1,4 +1,4 @@
-package test.app.cnjokes.ui.theme
+package test.app.cnjokes.theme
 
 import android.app.Activity
 import android.os.Build
